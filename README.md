@@ -10,8 +10,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-- JS / talves kkkk
+- JS 
 
 ---
 
-Feito com ♥ by [Rocketseat](https://rocketseat.com.br)
+## Feito com ♥ by [Rocketseat](https://rocketseat.com.br)
+# Recriado para aprendizado alterando a página inicial que antes só tinha uma tela, foi incluido página de contatos e thema para alternar a cor da página em JavaScript.
